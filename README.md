@@ -1,5 +1,16 @@
 # vue-serverless-template
 
+## Usage:
+
+1. Click `Use this template` button on the top right corner of this page.
+2. Click `Create repository from template` button.
+3. Clone the repository to your local machine.
+4. Run `npm install` or `yarn` to install dependencies.
+5. Run `npm run deploy` or `yarn deploy` to deploy the project to AWS.
+
+
+## Original README.md:
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
